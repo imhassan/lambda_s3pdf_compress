@@ -1,1 +1,1 @@
-# lambda_s3pdf_compress
+# Lambda S3 PDF files compressor
